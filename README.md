@@ -1,8 +1,5 @@
 # NVIDIA PhysX SDK 4.1
 
-<<<<<<< HEAD
-Copyright (c) 2021 NVIDIA Corporation. All rights reserved.
-=======
 # Improved CMake integration (contributed by @phcerdan)
 - Provide PhysXConfig.cmake and exported targets file for build and install tree.
 - Other projects can use find_package(PhysX) where PhysX_DIR can be a build tree or an install tree.
@@ -119,8 +116,7 @@ that inspired this approach (thanks to @craig.scott)
 ```
 
 
-Copyright (c) 2019 NVIDIA Corporation. All rights reserved.
->>>>>>> 1db08c8b3742c4ebd0838404637911df7c6c1a9d
+Copyright (c) 2021 NVIDIA Corporation. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions
