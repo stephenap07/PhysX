@@ -1,5 +1,10 @@
 # NVIDIA PhysX SDK 4.1
 
+# Fix annoyances (by Stephen)
+- Fixed some cmake syntax errors
+- Removed the NDEBUG define from the debug target
+- Added /MDd and /MD to the debug and release targets respectively
+
 # Improved CMake integration (contributed by @phcerdan)
 - Provide PhysXConfig.cmake and exported targets file for build and install tree.
 - Other projects can use find_package(PhysX) where PhysX_DIR can be a build tree or an install tree.
